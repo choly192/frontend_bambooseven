@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/webpack-5.73.0-blue)
+
 # 竹七导航
 
 ## 项目启动
