@@ -4,6 +4,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/webpack-5.73.0-blue" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/antd-4.21.4-blue" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/babel-7.12.1-%23eeda7c" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/reduxjs/toolkit-1.8.3-%236a43a9" style="max-width: 100%;">
 </div>
 
 ## 项目启动
