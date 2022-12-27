@@ -1,15 +1,14 @@
 <h1 align="center">竹七导航</h1>
 
----
 <div align="center">
   <img src="https://img.shields.io/badge/webpack-5.73.0-blue" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/antd-4.21.4-blue" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/babel-7.12.1-%23eeda7c" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/antd-4.21.4-blue" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/reduxjs/toolkit-1.8.3-%236a43a9" style="max-width: 100%;">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-%2361DAFB" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/axios-0.27.2-%23671ddf" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/axios-0.27.2-%234c1" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/typescript-4.7.4-%23294E80" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Less-4.1.3-%231d365d" style="max-width: 100%;">
 </div>
