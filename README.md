@@ -1,6 +1,10 @@
-![](https://img.shields.io/badge/webpack-5.73.0-blue)
 
-# 竹七导航
+<center>竹七导航</center>
+
+---
+
+![](https://img.shields.io/badge/webpack-5.73.0-blue#pic_center)![](https://img.shields.io/badge/wantd-4.21.4-blue#pic_center)
+
 
 ## 项目启动
 
