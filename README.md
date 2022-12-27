@@ -1,10 +1,10 @@
-
-<center>竹七导航</center>
+<h1 align="center">竹七导航</h1>
 
 ---
-
-![](https://img.shields.io/badge/webpack-5.73.0-blue#pic_center)![](https://img.shields.io/badge/wantd-4.21.4-blue#pic_center)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/webpack-5.73.0-blue" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/antd-4.21.4-blue" style="max-width: 100%;">
+</div>
 
 ## 项目启动
 
